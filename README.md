@@ -7,8 +7,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>LL(1) Parser</h1>
-        <p>Este projeto implementa um analisador sintático LL(1) que lê uma tabela de parsing e um arquivo de entrada, realizando a análise sintática com base nas regras definidas na tabela.</p>
+        <h1>LL(1)</h1>
+        <p>Este projeto implementa um analisador sintático LL(1) que lê uma tabela e um arquivo de entrada, realizando a análise sintática com base nas regras definidas na tabela.</p>
 
 <h2>Estrutura do Projeto</h2>
         <ul>
